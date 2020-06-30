@@ -8,12 +8,12 @@ No textures being used, everything is drawn using Java AWT Library(java.awt.Grap
 Shapes and objects can be loaded from text files; See the [Alphabets](Alphabets) or [TetrisShapes](TetrisShapes) folders as examples to create new shapes.
 
 <br/><br/>
-#### Alphabets
+### Alphabets
 <br/>
 
 ![Screenshot](screenshot2.png)
 <br/><br/><br/><br/>
-#### Tetris
+### Tetris
 <br/>
 
 ![Screenshot](screenshot.png)
