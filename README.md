@@ -12,7 +12,7 @@ Shapes and objects can be loaded from text files; See the [Alphabets](Alphabets)
 <br/>
 
 ![Screenshot](screenshot2.png)
-<br/><br/><br/>
+<br/><br/><br/><br/>
 #### Tetris
 <br/>
 
