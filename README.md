@@ -1,6 +1,6 @@
 # Brick Game Emulator
 
-### Warning: Very old, incomplete and probably noobish code.<br/>
+### Warning: Very old, incomplete and probably noobish code.
 #### Uploaded for archival purposes, though it does work.<br/><br/>
 
 A brick game like emulator written "way-back-then" in Java.<br/>
